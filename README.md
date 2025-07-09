@@ -26,12 +26,6 @@ The dataset includes images classified into the following categories:
 - Epochs: 10 (customize as needed)
 - Learning Rate: 0.001
 
-##  Results
-
-| Metric    | Value     |
-|-----------|-----------|
-| Accuracy  |  |
-| Loss      | *Final Loss*     |
 
 ##  How to Run
 
